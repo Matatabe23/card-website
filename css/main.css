@@ -82,8 +82,8 @@ html {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 20rem;
-    height: 20rem;
+    width: 10rem;
+    height: 10rem;
     background: transparent;
     border: .2rem solid var(--main-color);
     border-radius: 50%;
