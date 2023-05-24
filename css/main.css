@@ -103,17 +103,7 @@ html {
 }
 
 
-@media (max-width: 767px) {
-    body {
-        background-image: url("https://mobimg.b-cdn.net/v3/fetch/a0/a00bd92fa856258b176a9841bca1090e.jpeg");
-        height: 100vh;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-    .video-bg {
-        display: none;
-    }
-}
+
 @media (max-width: 1226px) {
     body {
         background-image: url("https://mobimg.b-cdn.net/v3/fetch/a0/a00bd92fa856258b176a9841bca1090e.jpeg");
