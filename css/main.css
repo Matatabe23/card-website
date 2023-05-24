@@ -116,3 +116,8 @@ html {
         display: none;
     }
 }
+@media (max-width: 500px) {
+    .link a{
+        display: flex;
+    }
+}
